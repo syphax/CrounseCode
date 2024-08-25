@@ -1,0 +1,7 @@
+*/img/*
+*.png
+*.html
+*.stl
+*.geojson
+*.gpx
+.DS_Store
