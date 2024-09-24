@@ -5,3 +5,5 @@
 *.geojson
 *.gpx
 .DS_Store
+.venv/
+*.fit
