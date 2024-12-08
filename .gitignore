@@ -8,3 +8,5 @@
 .DS_Store
 .venv/
 *.fit
+*.log
+config.json
