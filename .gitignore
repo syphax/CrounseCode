@@ -9,4 +9,5 @@
 .venv/
 *.fit
 *.log
+*.pdf
 config.json
